@@ -1,0 +1,32 @@
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+.scalastyle
+.cache-*
+.pydevproject
+ 
+# SBT
+dist
+project/boot
+project/project
+project/target
+project/plugins/target
+target
+.target
+ 
+# Play
+logs
+RUNNING_PID
+local.conf
+
+# IDEA
+.idea
+.iml
+.idea_modules
+
+# Scala
+.tmpBin
